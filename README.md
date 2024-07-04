@@ -32,3 +32,5 @@ This repository contains Python scripts for training and evaluating Graph Convol
     
      ```bash
     python main.py
+
+5. You can check the Poison_Air.ipynb for the results. 
